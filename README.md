@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando em projetos de dados e Python
 - 🌱 Estudando GitHub, DevOps e Banco de Dados
 - 💬 Pergunte-me sobre Python, SQL e Git
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/henriquedelmas/)
 
 ---
 
