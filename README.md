@@ -1,19 +1,23 @@
-# 👋 Olá, eu sou o Henrique!
+👋 Olá! Sou Henrique Delmas, Desenvolvedor de Software focado em construir sistemas escaláveis, eficientes e inteligentes.
+Atualmente no 7º período de Ciência da Computação, venho consolidando minha trajetória técnica através de formações intensivas na EBAC e Udemy, unindo a base acadêmica rigorosa com a prática de mercado em projetos reais.🚀 
 
-- 🔭 Atualmente trabalhando em projetos de dados e Python
-- 🌱 Estudando GitHub, DevOps e Banco de Dados
-- 💬 Pergunte-me sobre Python, SQL e Git
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/henriquedelmas/)
+Minha Especialidade:
+Desenvolvimento Backend robusto com Python e Django, além de criação de aplicações Mobile nativas com Kotlin (Android). Acredito que a tecnologia deve ser um motor de eficiência, por isso foco em escrever Clean Code e aplicar padrões de POO (Programação Orientada a Objetos) para garantir software de alta manutenção e performance.
 
----
+🛠️ Stack Técnica & Domínio:
+• Backend: Python, Django, Django REST Framework (DRF) e SQL (PostgreSQL/MySQL).
 
-## 🚀 Tecnologias que uso
-- Python 🐍
-- Git & GitHub
-- Docker
-- SQL (PostgreSQL, SQLite)
+• Mobile: Desenvolvimento Android Nativo com Kotlin.
 
----
+• Inovação: Integração de Inteligência Artificial (IA) no ciclo de desenvolvimento e automação de processos.
 
-## 📊 Estatísticas do GitHub
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+• Qualidade: Arquitetura de Software, POO e Clean Code.🌍 Diferenciais:
+
+• Inglês Avançado: Capacidade de atuar em times globais e consumir documentações técnicas na fonte.
+
+• Aprendizado Acelerado: Histórico de especializações profundas em tempo recorde, focado em resolver desafios complexos de negócio.⭐ 
+Aberto sempre a oportunidades onde eu possa aplicar meu domínio em Python, Django e IA para gerar valor real e evoluir junto a times de alta performance.
+
+📧 Vamos conversar?
+• LinkedIn: https://www.linkedin.com/in/henriquedelmas/
+• Instagram: https://www.instagram.com/henriquedelmas/
